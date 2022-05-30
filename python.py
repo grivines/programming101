@@ -1,0 +1,7 @@
+print("wecome guru99")
+print(8 * "\n")
+print("wecome guru99")
+print("kenya")
+print(2 *"\n")
+print("Kenya")
+print("python" , end='@')
